@@ -1,0 +1,1 @@
+# GenAI platform application package
