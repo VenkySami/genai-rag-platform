@@ -108,7 +108,7 @@ sequenceDiagram
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/genai-platform.git
+   git clone https://github.com/VenkySami/genai-rag-platform.git
    cd genai-platform
    ```
 
